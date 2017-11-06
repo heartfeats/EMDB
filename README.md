@@ -2,7 +2,7 @@
 
 #### _ 11.6.17_
 
-#### By _**Victor M. Puentes Jr**
+#### By _**Marcus Parmentier,Issacc Aniamatali, Hansen, John Murray, Victor M. Puentes Jr**
 
 ## Description
 
@@ -10,13 +10,15 @@ _An app that will emulate IMBD but with some custom modifications.
 
 ** User Story
 
-
-
+| User Behavior | Input | Output |
+|---|---|---|
+|1. As a user I need to be able to sign in, by creating a username and password | enter username and password | username and password is saved to database, true. |
+|2.
 ## Specifications
 
-| Behavior  | Input  | Output  |
+| App Behavior  | Expected  | Actual  |
 |---|---|---|
-|1.Employee user lands on Homepage and is able to add a stylist to the database | Stylist Name | Stylist Name is appended on list |
+|1. |  |  |
 |2.
 
 ## Getting Started
